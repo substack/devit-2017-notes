@@ -9,6 +9,10 @@ follow me on secure scuttlebutt
 
 @9nTgtYmvW4HID6ayt6Icwc8WZxdifx5SlSKKIX/X/1g=.ed25519
 
+* ssb://%o6ht9BgxteQXSmvqiaSXwDkLUKw8Cq5x28eY296qlRg=.sha256
+* /ipfs/QmfLVT9dwJUTvB1pV4SuixLm6pGb1GSjiRHgqKvs3EXmoT
+* https://github.com/substack/devit-2017-notes (legacy web)
+
 ---
 # /¡\ warning /!\
 
